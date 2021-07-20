@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="io.netty:netty-build:19" type="repository">
+    <properties maven-id="io.netty:netty-build:19" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/netty-build-19.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/checkstyle-5.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/antlr-2.7.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-beanutils-core-1.8.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-logging-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-cli-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/google-collections-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/lib/netty-build-19-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/checkstyle-5.6-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-logging-1.1.1-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-cli-1.2-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/google-collections-1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
